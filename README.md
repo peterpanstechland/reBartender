@@ -1,7 +1,5 @@
 # reBartender
 
----
-
 ## Intro
 
 reBartender all starts with celebration of dragon boat festival at Seeed Studio, so why not host a booth to serve few drinks during the event with "reBartender V0.1" an automate cocktail mixer quickly assembled by Peter, even though he has no idea on cocktail mixer and does not like alcohol, he was so exciting about the project.
